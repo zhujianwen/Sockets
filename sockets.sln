@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sockets", "app\sockets.vcxproj", "{111A3AA4-000A-4C10-913E-7B0628B13F9E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "echoserver", "app\echoserver.vcxproj", "{16FE34C2-3F5F-4EDD-8652-A3E63576A4AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "stressclient", "app\stressclient.vcxproj", "{FBDBF0E7-C9AB-4F3B-AE6C-4B3FAAAC620A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{111A3AA4-000A-4C10-913E-7B0628B13F9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{111A3AA4-000A-4C10-913E-7B0628B13F9E}.Debug|Win32.Build.0 = Debug|Win32
+		{111A3AA4-000A-4C10-913E-7B0628B13F9E}.Release|Win32.ActiveCfg = Release|Win32
+		{111A3AA4-000A-4C10-913E-7B0628B13F9E}.Release|Win32.Build.0 = Release|Win32
+		{16FE34C2-3F5F-4EDD-8652-A3E63576A4AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16FE34C2-3F5F-4EDD-8652-A3E63576A4AF}.Debug|Win32.Build.0 = Debug|Win32
+		{16FE34C2-3F5F-4EDD-8652-A3E63576A4AF}.Release|Win32.ActiveCfg = Release|Win32
+		{16FE34C2-3F5F-4EDD-8652-A3E63576A4AF}.Release|Win32.Build.0 = Release|Win32
+		{FBDBF0E7-C9AB-4F3B-AE6C-4B3FAAAC620A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FBDBF0E7-C9AB-4F3B-AE6C-4B3FAAAC620A}.Debug|Win32.Build.0 = Debug|Win32
+		{FBDBF0E7-C9AB-4F3B-AE6C-4B3FAAAC620A}.Release|Win32.ActiveCfg = Release|Win32
+		{FBDBF0E7-C9AB-4F3B-AE6C-4B3FAAAC620A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
